@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Weather + Flights</title>
+</head>
+<body>
+  <h1>Latest snapshot</h1>
+  <pre id="out">Loading…</pre>
+
+  <script>
+    fetch("data/latest.json", { cache: "no-store" })
+      .then(r => r.json())
+      .then(j => out.textContent = JSON.stringify(j, null, 2))
+      .catch(e => out.textContent = "Error: " + e);
+  </script>
+</body>
+</html>
