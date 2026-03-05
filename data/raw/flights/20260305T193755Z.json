@@ -1,0 +1,69 @@
+{
+  "retrieved_at_utc": "2026-03-05T19:37:55+00:00",
+  "source": "opensky",
+  "final_url": "https://opensky-network.org/api/states/all?lamin=34.5&lomin=32.7&lamax=35.6&lomax=34.2",
+  "http_status": 200,
+  "payload": {
+    "time": 1772739472,
+    "states": [
+      [
+        "45214b",
+        "BRD142  ",
+        "Bulgaria",
+        1772739110,
+        1772739472,
+        33.278,
+        34.6833,
+        8267.7,
+        false,
+        169.53,
+        273.31,
+        5.53,
+        null,
+        3596.64,
+        "1146",
+        false,
+        0
+      ],
+      [
+        "469dc1",
+        "SEH7LC  ",
+        "Greece",
+        1772739471,
+        1772739472,
+        33.1692,
+        35.0049,
+        2613.66,
+        false,
+        146.59,
+        109.26,
+        -4.88,
+        null,
+        2735.58,
+        "7431",
+        false,
+        0
+      ],
+      [
+        "46b8b6",
+        "AEE917  ",
+        "Greece",
+        1772739469,
+        1772739469,
+        33.4914,
+        34.7676,
+        1691.64,
+        false,
+        141.94,
+        226.76,
+        9.1,
+        null,
+        1775.46,
+        null,
+        false,
+        0
+      ]
+    ]
+  },
+  "raw_text_fallback": null
+}
