@@ -1,0 +1,50 @@
+{
+  "retrieved_at_utc": "2026-03-06T04:53:22+00:00",
+  "source": "opensky",
+  "final_url": "https://opensky-network.org/api/states/all?lamin=34.5&lomin=32.7&lamax=35.6&lomax=34.2",
+  "http_status": 200,
+  "payload": {
+    "time": 1772772794,
+    "states": [
+      [
+        "452086",
+        "FIA5765 ",
+        "Bulgaria",
+        1772772722,
+        1772772722,
+        33.7307,
+        34.9608,
+        556.26,
+        false,
+        90.17,
+        236.4,
+        -9.43,
+        null,
+        922.02,
+        null,
+        false,
+        0
+      ],
+      [
+        "4b8533",
+        "PGT1932 ",
+        "Turkey",
+        1772772794,
+        1772772794,
+        33.7751,
+        35.1915,
+        1181.1,
+        false,
+        130.55,
+        191.13,
+        -1.95,
+        null,
+        1272.54,
+        null,
+        false,
+        0
+      ]
+    ]
+  },
+  "raw_text_fallback": null
+}
