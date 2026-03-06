@@ -1,0 +1,69 @@
+{
+  "retrieved_at_utc": "2026-03-06T15:55:23+00:00",
+  "source": "opensky",
+  "final_url": "https://opensky-network.org/api/states/all?lamin=34.5&lomin=32.7&lamax=35.6&lomax=34.2",
+  "http_status": 200,
+  "payload": {
+    "time": 1772812515,
+    "states": [
+      [
+        "4b984f",
+        "FHY4914 ",
+        "Turkey",
+        1772812514,
+        1772812515,
+        33.7957,
+        35.1198,
+        731.52,
+        false,
+        99.59,
+        197.12,
+        -6.5,
+        null,
+        822.96,
+        null,
+        false,
+        0
+      ],
+      [
+        "4bb87a",
+        "PGT1984 ",
+        "Turkey",
+        1772812515,
+        1772812515,
+        33.5441,
+        35.5201,
+        3124.2,
+        false,
+        163.98,
+        147.56,
+        -3.9,
+        null,
+        3192.78,
+        null,
+        false,
+        0
+      ],
+      [
+        "4b9067",
+        "PGT1893 ",
+        "Turkey",
+        1772812514,
+        1772812514,
+        33.2844,
+        35.4542,
+        4442.46,
+        false,
+        173.42,
+        336.02,
+        18.53,
+        null,
+        4511.04,
+        null,
+        false,
+        0
+      ]
+    ]
+  },
+  "raw_text_fallback": null
+}
