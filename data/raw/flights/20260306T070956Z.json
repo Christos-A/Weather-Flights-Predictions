@@ -1,0 +1,50 @@
+{
+  "retrieved_at_utc": "2026-03-06T07:09:56+00:00",
+  "source": "opensky",
+  "final_url": "https://opensky-network.org/api/states/all?lamin=34.5&lomin=32.7&lamax=35.6&lomax=34.2",
+  "http_status": 200,
+  "payload": {
+    "time": 1772780990,
+    "states": [
+      [
+        "48e957",
+        "AMQ5O   ",
+        "Poland",
+        1772780761,
+        1772780763,
+        33.7149,
+        34.9043,
+        701.04,
+        false,
+        104.91,
+        67.21,
+        -5.53,
+        null,
+        777.24,
+        "4307",
+        false,
+        0
+      ],
+      [
+        "4bb863",
+        "PGT1853 ",
+        "Turkey",
+        1772780989,
+        1772780989,
+        33.3848,
+        35.2868,
+        2552.7,
+        false,
+        139.93,
+        353.03,
+        12.35,
+        null,
+        2636.52,
+        null,
+        false,
+        0
+      ]
+    ]
+  },
+  "raw_text_fallback": null
+}
