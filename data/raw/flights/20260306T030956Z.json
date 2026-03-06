@@ -1,0 +1,31 @@
+{
+  "retrieved_at_utc": "2026-03-06T03:09:56+00:00",
+  "source": "opensky",
+  "final_url": "https://opensky-network.org/api/states/all?lamin=34.5&lomin=32.7&lamax=35.6&lomax=34.2",
+  "http_status": 200,
+  "payload": {
+    "time": 1772766593,
+    "states": [
+      [
+        "4bb844",
+        "PGT1881 ",
+        "Turkey",
+        1772766593,
+        1772766593,
+        33.4002,
+        35.2286,
+        2133.6,
+        false,
+        116.41,
+        314.64,
+        16.58,
+        null,
+        2209.8,
+        null,
+        false,
+        0
+      ]
+    ]
+  },
+  "raw_text_fallback": null
+}
