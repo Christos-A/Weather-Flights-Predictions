@@ -1,0 +1,11 @@
+{
+  "retrieved_at_utc": "2026-03-07T02:45:43+00:00",
+  "source": "opensky",
+  "final_url": "https://opensky-network.org/api/states/all?lamin=34.5&lomin=32.7&lamax=35.6&lomax=34.2",
+  "http_status": 200,
+  "payload": {
+    "time": 1772851538,
+    "states": null
+  },
+  "raw_text_fallback": null
+}
