@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-07T18:52:07+00:00",
+  "generated_at_utc": "2026-03-07T21:38:14+00:00",
   "location": {
     "lat": 34.9,
     "lon": 33.6
@@ -12,7 +12,7 @@
   },
   "open_meteo_status": 200,
   "opensky_status": 200,
-  "aircraft_count_in_bbox": 3,
+  "aircraft_count_in_bbox": 2,
   "weather_next_24h": {
     "time": [
       "2026-03-07T00:00",

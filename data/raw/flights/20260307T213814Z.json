@@ -1,0 +1,50 @@
+{
+  "retrieved_at_utc": "2026-03-07T21:38:14+00:00",
+  "source": "opensky",
+  "final_url": "https://opensky-network.org/api/states/all?lamin=34.5&lomin=32.7&lamax=35.6&lomax=34.2",
+  "http_status": 200,
+  "payload": {
+    "time": 1772919492,
+    "states": [
+      [
+        "01022f",
+        "MSC908  ",
+        "Egypt",
+        1772918591,
+        1772919491,
+        33.4485,
+        34.5667,
+        10675.62,
+        false,
+        232.83,
+        210.99,
+        0.65,
+        null,
+        10736.58,
+        "6002",
+        false,
+        0
+      ],
+      [
+        "717cfa",
+        "KNE690  ",
+        "Saudi Arabia",
+        1772918589,
+        1772919491,
+        33.731,
+        34.9203,
+        10050.78,
+        false,
+        247.47,
+        192.85,
+        -0.33,
+        null,
+        10149.84,
+        "1152",
+        false,
+        0
+      ]
+    ]
+  },
+  "raw_text_fallback": null
+}
