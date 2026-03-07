@@ -1,0 +1,69 @@
+{
+  "retrieved_at_utc": "2026-03-07T13:10:17+00:00",
+  "source": "opensky",
+  "final_url": "https://opensky-network.org/api/states/all?lamin=34.5&lomin=32.7&lamax=35.6&lomax=34.2",
+  "http_status": 200,
+  "payload": {
+    "time": 1772889014,
+    "states": [
+      [
+        "471efc",
+        "WZZ5M   ",
+        "Hungary",
+        1772889014,
+        1772889014,
+        33.5268,
+        34.9786,
+        2560.32,
+        false,
+        131.76,
+        281.49,
+        12.68,
+        null,
+        2621.28,
+        null,
+        false,
+        0
+      ],
+      [
+        "50007b",
+        "TSM605  ",
+        "San Marino",
+        1772886753,
+        1772889014,
+        33.7308,
+        34.8369,
+        10668,
+        false,
+        145.3,
+        171.04,
+        16.26,
+        null,
+        1981.2,
+        "3360",
+        false,
+        0
+      ],
+      [
+        "407f61",
+        "EZY71KC ",
+        "United Kingdom",
+        1772888865,
+        1772888877,
+        33.4764,
+        34.7589,
+        617.22,
+        false,
+        102.27,
+        46.83,
+        -1.63,
+        null,
+        731.52,
+        "2720",
+        false,
+        0
+      ]
+    ]
+  },
+  "raw_text_fallback": null
+}
