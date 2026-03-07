@@ -1,0 +1,69 @@
+{
+  "retrieved_at_utc": "2026-03-07T15:41:13+00:00",
+  "source": "opensky",
+  "final_url": "https://opensky-network.org/api/states/all?lamin=34.5&lomin=32.7&lamax=35.6&lomax=34.2",
+  "http_status": 200,
+  "payload": {
+    "time": 1772898072,
+    "states": [
+      [
+        "3c64ab",
+        "DLH1293 ",
+        "Germany",
+        1772896813,
+        1772898071,
+        33.6746,
+        34.9277,
+        784.86,
+        false,
+        104.99,
+        1.68,
+        9.43,
+        null,
+        845.82,
+        null,
+        false,
+        0
+      ],
+      [
+        "4c01e0",
+        "ASL58C  ",
+        "Serbia",
+        1772897968,
+        1772898070,
+        33.6498,
+        34.95,
+        1478.28,
+        false,
+        118.97,
+        282.23,
+        13.66,
+        null,
+        1272.54,
+        null,
+        false,
+        0
+      ],
+      [
+        "4bb868",
+        "PGT1893 ",
+        "Turkey",
+        1772898071,
+        1772898071,
+        33.438,
+        35.1996,
+        1501.14,
+        false,
+        103.56,
+        321.25,
+        19.51,
+        null,
+        1569.72,
+        null,
+        false,
+        0
+      ]
+    ]
+  },
+  "raw_text_fallback": null
+}
