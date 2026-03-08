@@ -1,0 +1,31 @@
+{
+  "retrieved_at_utc": "2026-03-08T03:13:39+00:00",
+  "source": "opensky",
+  "final_url": "https://opensky-network.org/api/states/all?lamin=34.5&lomin=32.7&lamax=35.6&lomax=34.2",
+  "http_status": 200,
+  "payload": {
+    "time": 1772939618,
+    "states": [
+      [
+        "7114d9",
+        "KNE964  ",
+        "Saudi Arabia",
+        1772938879,
+        1772939617,
+        33.6967,
+        34.7965,
+        10668,
+        false,
+        222.87,
+        193.07,
+        0,
+        null,
+        10721.34,
+        "6027",
+        false,
+        0
+      ]
+    ]
+  },
+  "raw_text_fallback": null
+}
